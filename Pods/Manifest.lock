@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.3.0)
+  - IQKeyboardManager (4.0.8)
+  - RxCocoa (3.2.0):
+    - RxSwift (~> 3.1)
+  - RxSwift (3.2.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3.0)
+  - IQKeyboardManager (~> 4.0.8)
+  - RxCocoa (~> 3.2.0)
+  - RxSwift (~> 3.2.0)
+  - SwiftyJSON (~> 3.1.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  RxCocoa: ccdf43101a70407097a29082f648ba1676075b30
+  RxSwift: 46574f70d416b7923c237195939cc488a7fbf3a0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: dbf223537127043bb92a496d465990cae8029034
+
+COCOAPODS: 1.2.0
